@@ -10,39 +10,69 @@ As a detail-oriented and committed individual, I thrive on solving complex probl
 
 ## 🔧 Here's a glimpse of my tech stacks:
 
-### 🛠️ Back End | 🖥️ Front End | 📱 Application
+### 🛠️ Back End:
+- 🟢 **Node.js**
+- ⚡ **Express.js**
+- 🛠️ **Symfony**
+- 🏗️ **Yii2**
+- 🦅 **NestJS**
+- ☕ **Java**
+- 🌱 **Spring Boot**
+- 🐘 **PHP**
+- 📦 **Laravel**
 
-**Node.js** | **React.js** | **Flutter**  
-**Express.js** | **Twig** | **Android Native**  
-**Symfony** | **Redux Saga** | **React Native**  
-**Yii2** | **Redux Toolkit** |  
-**NestJS** | **JavaScript** |  
-**Java** | **Tailwind CSS** |  
-**Spring Boot** | **Ant Design** |  
-**PHP** |  
-**Laravel** |  
+### 🖥️ Front End:
+- ⚛️ **React.js**
+- 🌀 **Twig**
+- 🌀 **Redux Saga**
+- 🛠️ **Redux Toolkit**
+- 🟡 **JavaScript**
+- 🌈 **Tailwind CSS**
+- 🐜 **Ant Design**
 
-### 🗄️ Database | 🛠️ DevOps Tools | 📝 Documentation
+### 📱 Application:
+- 🦋 **Flutter**
+- 🤖 **Android Native**
+- ⚛️ **React Native**
 
-**PostgreSQL** | **Jenkins** | **Jira**  
-**MySQL** | **GitLab CI/CD** | **Slack**  
-**MongoDB** | **GitHub Actions** | **Confluence**  
-**JDBC** | **Travis CI** |  
-**Liquibase** | **Docker** |  
-**Firebase** | **Kubernetes** |  
-| **Amazon Web Services (AWS)** |  
+### 🗄️ Database:
+- 🐘 **PostgreSQL**
+- 🐬 **MySQL**
+- 🍃 **MongoDB**
+- 🛢️ **JDBC**
+- 🚰 **Liquibase**
+- 🔥 **Firebase**
 
-### 🔄 Configuration and Change Management
+### 🛠️ DevOps Tools
 
-**GitLab** | **Bitbucket** | **GitHub**
+#### 📦 Continuous Integration and Continuous Deployment (CI/CD):
+- 🏗️ **Jenkins**
+- 🟢 **GitLab CI/CD**
+- 🔧 **GitHub Actions**
+- 🚦 **Travis CI**
+
+#### 🛠️ Infrastructure Provisioning and Configuration Management:
+- 🐳 **Docker**
+- ☸️ **Kubernetes**
+- ☁️ **Amazon Web Services (AWS)**
+
+### 📝 Documentation and Collaboration:
+- 🎫 **Jira**
+- 🗣️ **Slack**
+- 📄 **Confluence**
+
+### 🔄 Configuration and Change Management:
+- 🔐 **GitLab**
+- 🔄 **Bitbucket**
+- 🔄 **GitHub**
 
 ## 💫 Highlights about me:
 
-🌟 **Client satisfaction is my top priority**, ensuring each project exceeds expectations.  
-🚀 **Disciplined, hardworking, and dedicated**, delivering high-quality projects on time.  
-🌀 **Flexible working hours** prioritize seamless collaboration and adaptability.  
-💡 **Focused on excellence**, consistently achieving project goals despite challenges.  
-🔥 **Taking full responsibility**, ensuring success, and striving for excellence in every task.
+- 🌟 **Client satisfaction is my top priority**, ensuring each project exceeds expectations.
+- 🚀 **Disciplined, hardworking, and dedicated**, delivering high-quality projects on time.
+- 🌀 **Flexible working hours** prioritize seamless collaboration and adaptability.
+- 💡 **Focused on excellence**, consistently achieving project goals despite challenges.
+- 🔥 **Taking full responsibility**, ensuring success, and striving for excellence in every task.
 
 ## 🚀 Let's Collaborate!
 
