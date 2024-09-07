@@ -13,26 +13,26 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+<p align="justify">
+  Hi, I'm Hiluf Meressa Kahsay, Software Engineer from Ethiopia
+  <br><br>
+  🔬 I'm currently studying for my doctorate at Wollo University (Kombolcha Institute of Technology - KIoT), Department of Software Engineering
   <br>
+  🎓 I graduated from Wollo University (Kombolcha Institute of Technology - KIoT), Department of Software Engineering (Master)
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🎓 I graduated from [Your Undergraduate University], Department of Software Engineering (Undergraduate)
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I graduated from [Your High School]
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  💻 I love writing code and learning anything about it
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📚 I’m currently learning how to build E-Commerce Websites with Django
   <br>
-  💻 I love writing code and learn anythings about it
+  💬 Ask me anything about from <a href="https://github.com/yourusername/your-repo/issues" title="Issues">Here</a>
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
