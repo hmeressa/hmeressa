@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nahom....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hiluf....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -10,18 +10,18 @@
 
 ## About Me
 
-* 🌍 I am Nahom Debele, a full-stack software developer, based in Addis Ababa.
+* 🌍 I am Hiluf Meressa, a Full stack software Engineer.
 
-* 💼 I have worked in various complex projects including SaaS, ERP, CRM , Game development ....
+* 💼 I have worked in various complex projects including SaaS, ERP, CRM.
 
 * ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
   
 ## 🧠 Core Skills:
 
-- **Front-end**: ⚛️ React, ⏭️ Next.js, 🐦 Flutter
-- **Back-end**: 🌐 Express.js, 🛡️ Nest.js, 🐹 Go
+- **Front-end**: ⚛️ React, ⏭️ Next.js, 🐦 Flutter 
+- **Back-end**:  🌱 Spring Boot ☕ Java, 🛡️ Nest.js, 🌐 Express.js
 - **Databases**: 🐘 PostgreSQL, 🐬 MySQL, 🍃 MongoDB
-- **DevOps**: 🐳 Docker, ⚙️ Nginx, 🧩 Jenkins
+- **DevOps**:    🐳 Docker, ⚙️ Nginx, 🧩 Jenkins, ☁️ Azure DevOps 
 
 
 
@@ -163,11 +163,11 @@
 <!-- Add your social media icons here with the appropriate dark theme styles -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-n&show_icons=true&locale=en&layout=compact&theme=dark" alt="nand-n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmeressa&show_icons=true&locale=en&layout=compact&theme=dark" alt="hmeressa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-n&show_icons=true&locale=en&theme=dark" alt="nand-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmeressa&show_icons=true&locale=en&theme=dark" alt="hmeressa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-n&theme=dark" alt="nand-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmeressa&theme=dark" alt="hmeressa" /></p>
 
 <hr>
 
@@ -179,10 +179,10 @@ Don't hesitate to get in touch if you have ideas, projects, or problems you need
   Feel free to reach out.
 </p>
 
-- 📧 **Email:** [nahomdebele002@gmail.com](mailto:nahomdebele002@gmail.com)
-- 💼 **LinkedIn:** [Nahom Debele](https://linkedin.com/in/nahom-debele)
-- 👨‍💻 **GitHub:** [nand-n](https://github.com/nand-n)
-- 🌐 **Portfolio:** [nahom.onrender.com](https://nahom.onrender.com/)
+- 📧 **Email:** [hmkahsay@gmail.com](mailto:hmkahsay@gmail.com)
+- 💼 **LinkedIn:** [Hiluf Meressa](https://www.linkedin.com/in/hmeressa/)
+- 👨‍💻 **GitHub:** [Hiluf Meressa](https://github.com/hmeressa)
+- 🌐 **Portfolio:** [hmeressa](https://personal-website-lriu.onrender.com/)
 
 ---
 
