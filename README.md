@@ -62,14 +62,6 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="WordPress" />
       <br>Figma
   </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="96" height="48" alt="WordPress" />
-      <br>Flutter
-  </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="96" height="48" alt="WordPress" />
-      <br>Dart
-    </td> 
   </tr>
   <tr>
    <td align="center" width="96">
@@ -87,11 +79,7 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-  </td> 
+    </td> 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -107,14 +95,6 @@
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td> 
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="bootstrap" />
       <br>PostgreSQL
