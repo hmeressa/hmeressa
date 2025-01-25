@@ -55,12 +55,8 @@
       <br>JavaScript
   </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
-      <br>Vite
-  </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="WordPress" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+      <br>Azure
   </td>
   </tr>
   <tr>
