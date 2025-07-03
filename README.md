@@ -10,7 +10,7 @@
 
 ## About Me
 
-* 🌍 I am Hiluf Meressa, a Full stack software Engineer.
+* 🌍 I am Hiluf Meressa, a Software Engineer.
 
 * 💼 I have worked in various complex projects including SaaS, ERP, CRM.
 
