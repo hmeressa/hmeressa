@@ -10,11 +10,11 @@
 
 ## About Me
 
-* 🌍 Hiluf Meressa | Software Engineer crafting smart solutions.
+* 👨‍💻 Hiluf Meressa | Software Engineer turning ideas into impactful solutions
 
-* 💼 I have worked in various complex projects including SaaS, ERP, CRM.
+* 🧩 Experience with complex systems — SaaS, ERP, CRM
 
-* ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
+* ✨ Passionate about intuitive UX and tackling tough technical challenges
   
 ## 🧠 Core Skills:
 
