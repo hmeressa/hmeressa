@@ -10,7 +10,7 @@
 
 ## About Me
 
-* 🌍 I am Hiluf Meressa, a Software Engineer.
+* 🌍 Hiluf Meressa | Software Engineer crafting smart solutions.
 
 * 💼 I have worked in various complex projects including SaaS, ERP, CRM.
 
